@@ -8,6 +8,7 @@ Bunch of programming facts, tips and tricks I find both useful and forgettable.
 
 ### Categories
 * [Java](#java)
+* [LibGDX](#libgdx)
 * [Liferay 6.2](#liferay62)
 * [Postgresql](#postgresql)
 * [Sed](#sed)
@@ -16,6 +17,9 @@ Bunch of programming facts, tips and tricks I find both useful and forgettable.
 
 ### Java
 - [Facts About Constructors](java/facts-about-constructors.md)
+
+### <a name="libgdx"></a>LibGDX
+- [Build Distribution JAR](libgdx/build-distribution-jar.md)
 
 ### <a name="liferay62"></a>Liferay 6.2
 - [Enable Variables In Freemarker Templates](liferay62/enable-variables-in-freemarker-templates.md)
