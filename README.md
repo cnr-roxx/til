@@ -17,6 +17,7 @@ Bunch of programming facts, tips and tricks I find both useful and forgettable.
 
 ### Java
 - [Facts About Constructors](java/facts-about-constructors.md)
+- [Convert files encoded with "UTF codes" to UTF](java/convert-utf-codes-to-utf.md)
 
 ### <a name="libgdx"></a>LibGDX
 - [Build Distribution JAR](libgdx/build-distribution-jar.md)
