@@ -1,6 +1,6 @@
 # Build Distribution JAR
 
-To build distribution JAR file use Gradle's task:
+To build distribution JAR file use Gradle task:
 ```
 other/dist
 ```
