@@ -1,5 +1,7 @@
 # Switch Portal To Developer Mode
 
+Reference link: https://github.com/liferay/liferay-portal/blob/6.2.x/portal-impl/src/portal-developer.properties
+
 To switch off various optimization features which makes difficult debuging put these lines into _portal-ext.properties_:
 
 ```properties
