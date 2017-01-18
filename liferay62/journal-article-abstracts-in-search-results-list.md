@@ -36,3 +36,5 @@ Zmodyfikować mechanizm wyświetlania skrotu w wynikach wyszukiwania można na k
 ``` 
 ...           
 3. Hook JSP - po prostu modyfikujemy zawartość "skrótu" tuż przed wyświetleniem w pliku JSP
+
+tst
